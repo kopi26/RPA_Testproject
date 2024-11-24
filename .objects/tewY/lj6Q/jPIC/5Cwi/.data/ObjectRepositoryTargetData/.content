@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DSUc5InUU0exLt7h1EXaiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="global.jdsports.com" CVScreenId="3c49b8f6-980d-404b-92b3-5242fd633352" CvTextArea="728, 369, 48, 19" CvTextArgument="Men" CvType="Text" DesignTimeRectangle="708, 342, 88, 75" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='nav-menu' tag='A' type='' class='wChild ga-ip' aaname='Men' check:innerText='Men' /&gt;" Guid="808f7aad-dea2-4281-8514-8a7760dbdfe4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JD Sports Global | Shop Online Now' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8e8bc359aa59dd3d6afc46a7ff9a2303.png" xmlns="">0gF8z_y5iJEe5rAqGeBYllA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

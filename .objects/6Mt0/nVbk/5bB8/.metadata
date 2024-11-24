@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome JD Sports Global  Shop Online Now(1)",
+  "Type": "Screen",
+  "Id": "5bB8DNy9mEC8_Lmac0asiQ",
+  "Reference": "MgSU6iodAUy8OdU89QrxJA/5bB8DNy9mEC8_Lmac0asiQ",
+  "ParentRef": "MgSU6iodAUy8OdU89QrxJA/nVbkax9S7US5Y-nooDGR5w",
+  "Created": "2024-11-22T19:05:17.1451222Z",
+  "Updated": "2024-11-22T19:05:17.1451222Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

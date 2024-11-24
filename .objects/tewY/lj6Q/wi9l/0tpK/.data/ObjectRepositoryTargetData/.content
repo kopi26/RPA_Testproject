@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o99foG6JcEmZMtOk4LBW3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="global.jdsports.com" CVScreenId="c0c09b3b-1944-4838-8e59-26605d8a21b6" DesignTimeRectangle="945, 252, 406, 60" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='srchInput' tag='INPUT' /&gt;" Guid="b8618900-2eae-4c0f-b9a0-6a39db900a8e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JD Sports Global | Shop Online Now' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5e27e9672ca15c1c3e9d89d4dbde94f4.png" xmlns="">02Y1qdFMBiU-2o9rIqlAbwg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

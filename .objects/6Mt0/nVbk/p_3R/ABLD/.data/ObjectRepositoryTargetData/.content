@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eW4NUtfKdEKQ9F-UnQZFDw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="global.jdsports.com" CVScreenId="70be5e7a-b87d-46d3-a90f-3ac0a99289c4" CvTextArea="959, 273, 308, 18" CvTextArgument="Search... Nike Air Max Flyknit Racer" CvType="Text" DesignTimeRectangle="945, 252, 406, 60" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='srchInput' tag='INPUT' type='text' class='' placeholder='Search... New Balance' aaname='' /&gt;" Guid="a2ef6020-e84a-40f1-8907-d56e81ec4129" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JD Sports Global | Shop Online Now' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7a8973820c90a4037de6f3039fded429.png" xmlns="">0IpOqyO8pQEqcgCS_MrYY3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
